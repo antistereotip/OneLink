@@ -58,5 +58,7 @@ Prijavljena je greška
 6. Ispravka greške je potvrđena na OneLink Live VM
 7. Greška je zatvorena
 
-<b>A Specific Example</b>
+<b>A Specific Example</b><br />
 For the client acme there are the following domains:
+
+<table class="confluenceTable"><tbody><tr><th class="confluenceTh">Live Domain (DNS points to Live VM)</th><td class="confluenceTd">es.acme.com</td></tr><tr><td class="highlight-grey confluenceTd" data-highlight-colour="grey">Staging Domain (DNS points to Staging VM)</td><td class="confluenceTd">es-acme.onelink-translations.com</td></tr></tbody></table>
